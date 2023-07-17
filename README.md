@@ -1,0 +1,1 @@
+https://ci.appveyor.com/api/projects/status/d0d53grya3akrq75?svg=true](https://ci.appveyor.com/project/IgorKalenkov/autoqa-homeworks-2-1)
